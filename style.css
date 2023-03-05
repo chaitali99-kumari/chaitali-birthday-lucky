@@ -59,11 +59,11 @@ p{
 @media(max-width:700px){
     
     .box{
-        margin-top: 20px;
-        width:400px;
-        height:750px;
+        margin-top: 5px;
+        width:350px;
+        height:680px;
         margin-left: -10px;
-        margin-right: 200px;
+        
         
     }
     h1{
@@ -73,16 +73,16 @@ p{
     }
    
     lable{
-       padding-left: 100px;
+       padding-left: 80px;
        font-size: 35px;
     }#l2{
-        padding-left: 80px;
+        padding-left: 60px;
     }
 
     input{
-        width:350px;
+        width:330px;
         height:50px;
-        margin-left: 15px;
+        margin-left: -5px;
         margin-top: 15px;
         margin-bottom: 30px;
     }
