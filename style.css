@@ -63,7 +63,7 @@ p{
         width:380px;
         height:680px;
         margin-left: -10px;
-        
+        box-shadow: none;
         
     }
     h1{
