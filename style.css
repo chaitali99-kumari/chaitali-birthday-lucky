@@ -60,7 +60,7 @@ p{
     
     .box{
         margin-top: 5px;
-        width:400px;
+        width:380px;
         height:680px;
         margin-left: -10px;
         
@@ -82,7 +82,7 @@ p{
     input{
         width:330px;
         height:50px;
-        margin-left: -5px;
+        margin-left: 5px;
         margin-top: 15px;
         margin-bottom: 30px;
     }
